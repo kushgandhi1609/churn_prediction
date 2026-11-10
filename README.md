@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project: data cleaning, exploratory analysis, model comparison, evaluation, and a Streamlit web app that estimates the chance a telecom customer will leave.
 
-**Live app:** _add the link here after deployment_
+**Live app:** https://churnpredictionbykushgandhi.streamlit.app/
 
 This README is also a decision log. For every major step it records **what I did, why, and what the data showed**, including the places where the result was not what I expected.
 
